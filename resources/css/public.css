@@ -7,16 +7,16 @@
     justify-content: center;
     align-items: center;
     position: relative;
+    background-color: #E40716;
 }
 
 .nav-button {
-    background-color: blue;
+    background-color: red;
     color: white;
-    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 5px;
+
 }
 
 .nav-item {
@@ -41,7 +41,11 @@
 .filemon-logo {
     background-image: url('https://images.squarespace-cdn.com/content/v1/64ca2a4354cbd66c6c8bf007/f67a2ae2-f615-4263-a71f-e11b1f26cbec/Logotipo_Filemo%CC%81n_simple_Mesa+de+trabajo+1+copia.png?format=1500w');
     width: 74px;
-    height: 64px;
+    height: auto;
     display: inline-block;
     text-indent: -9999px;
 }
+
+/* .nav:hover {
+    background-color: transparent;
+} */
