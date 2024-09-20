@@ -40,8 +40,8 @@
 
 .filemon-logo {
     background-image: url('https://images.squarespace-cdn.com/content/v1/64ca2a4354cbd66c6c8bf007/f67a2ae2-f615-4263-a71f-e11b1f26cbec/Logotipo_Filemo%CC%81n_simple_Mesa+de+trabajo+1+copia.png?format=1500w');
-    background-size: auto; /* Ajustar el tamaño de la imagen manteniendo la proporción */
-    width: 400px; /* Ajustar el ancho de la imagen */
+    background-size: cover; /* Ajustar el tamaño de la imagen manteniendo la proporción */
+    width: 350px; /* Ajustar el ancho de la imagen */
     height: auto; /* Mantener la altura automática para mantener la proporción */
     display: inline-block;
     text-indent: -9999px;
